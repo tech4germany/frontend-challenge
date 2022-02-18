@@ -19,4 +19,4 @@ In the technical interview that follows we would like to discuss your approach, 
 
 ## Have fun! 🚀
 
-We look forward to your submission! Please [let us know](mailto:challenge@4germany.org) if you have any questions or concerns.
+We look forward to your submission! Please [let us know](mailto:challenge@tech4germany.org) if you have any questions or concerns.
