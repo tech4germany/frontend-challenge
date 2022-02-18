@@ -8,7 +8,7 @@ Create a small web application that provides a dashboard showing how many data s
 
 Data for the dashboard is going to be provided by a backend in the future, but such an API is not in place yet (imagine your colleagues are working on it). Provided already is an exemplary JSON file that resembles a response from the planned API.
 
-Use a non-proprietary tech stack of your choice and explain in a readme how to run your solution. Please email your solution as a zip file to [challenge@4germany.org](mailto:challenge@4germany.org). If you're using
+Use a non-proprietary tech stack of your choice and explain in a readme how to run your solution. Please email your solution as a zip file to [challenge@4germany.org](mailto:challenge@tech4germany.org). If you're using
 Git during building your application please make sure to include the Git history as well.
 
 ## Evaluation
